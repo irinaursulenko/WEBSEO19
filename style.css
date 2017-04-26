@@ -1,0 +1,24 @@
+
+*{box-sizing:border-box}
+#mine {
+	margin-top:50px;
+	height:500px;
+	width:500px;
+	border:1px solid
+}
+.w {
+	/* height:10%; */
+	/* width:10%; */
+	height:25%;
+	width:25%; 
+	background-image:url(img/card-back.jpg);
+    background-size:100% 100%;
+	border:1px solid;
+	transition:1s; 
+	float:left; 
+	
+}
+.w img{
+	height:100%;
+	width:100%;
+}
